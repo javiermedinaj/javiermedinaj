@@ -1,25 +1,35 @@
 <h1 align="center">Hi, I'm Javier Medina</h1>
-<h3 align="center">A passionate frontend developer from Buenos Aires</h3>
 
-<h3 align="left">About me:</h3>
-<p align="left">I'm currently studying Computer Engineering and constantly learning.</p>
+## About me
+**I am a beginner programmer.** I'm developing in the field of web technologies, doing **front-end** and **python** development. I study the **back-end** and continue to improve my programming knowledge. I will be happy to **take part in your projects** to gain experience and develop myself as a programmer.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/javiermedinaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javiermedinaj/" height="30" width="40" /></a>
-  <a href="https://instagram.com/medinajavierj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="medinajavierj" height="30" width="40" /></a>
-</p>
+___
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiermedinaj&layout=compact&langs_count=8&theme=dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### **Languages and Tools:**
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-070404?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-070404?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-070404?style=for-the-badge&logo=css3&logoColor=2965f1)
+![JavaScript](https://img.shields.io/badge/-JS-070404?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-070404?style=for-the-badge&logo=java)
+![PostgreSQL](https://img.shields.io/badge/-Postgres-070404?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-Mysql-070404?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-mongodb-070404?style=for-the-badge&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-070404?style=for-the-badge&logo=Docker)
+
+</div>
+
+---
+
+### Follow Me:
+<div align="center">
+ 
+[![LinkedIn](https://img.shields.io/badge/-linkedin-070404?style=for-the-badge&logo=linkedin&logoColor=3772a2)](https://www.linkedin.com/in/javiermedinaj/)
+[![Instagram](https://img.shields.io/badge/-instagram-070404?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/medinajavierj/)
+
+</div>
