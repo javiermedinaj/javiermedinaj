@@ -26,10 +26,3 @@ ___
 
 ---
 
-### Follow Me:
-<div align="center">
- 
-[![LinkedIn](https://img.shields.io/badge/-linkedin-070404?style=for-the-badge&logo=linkedin&logoColor=3772a2)](https://www.linkedin.com/in/javiermedinaj/)
-[![Instagram](https://img.shields.io/badge/-instagram-070404?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/medinajavierj/)
-
-</div>
